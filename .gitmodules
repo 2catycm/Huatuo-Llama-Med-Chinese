@@ -1,0 +1,6 @@
+[submodule "lora-llama-med"]
+	path = lora-llama-med
+	url = https://huggingface.co/thinksoso/lora-llama-med
+[submodule "lora-llama-literature"]
+	path = lora-llama-literature
+	url = https://huggingface.co/lovepon/lora-llama-literature

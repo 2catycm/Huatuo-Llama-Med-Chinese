@@ -6,7 +6,7 @@ checkpoint**
 minimal-llama**
 # lora-llama-med
 upload.py
-lora-**
+# lora-**
 *.out
 *result
 *ckpt
